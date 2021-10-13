@@ -5,5 +5,3 @@ Olá! Bem Vindo ao meu livro de receitas
 - Brigadeiro
 
 - Pudim de Leite Condensado
-
-- Pave
